@@ -1,0 +1,117 @@
+*{
+margin:0;
+padding: 0;
+}
+body{
+background-color: blanchedalmond;
+
+
+
+}
+#navbar{
+    width: 100vw;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+#content{
+width: 100vw;
+height: 40vh;
+display: flex;
+justify-content: space-evenly;
+
+}
+#class1{
+width: 200px;
+height: 240px;
+text-align: centre ;
+
+
+}
+#box1{
+height: 200px;
+width: 200px;
+background-image: url("ram1.png");
+background-size: cover;
+border: 2px solid black;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+
+    background-image: url("ram2.png");
+    background-size: cover;
+    border: 2px solid black;
+    
+}
+#box3{
+    width: 350px;
+    height: 200px;
+    background-image: url("ram3.png");
+    background-size: cover;
+    border: 2px solid black;
+}
+#box4{
+    width: 350px;
+    height: 200px;
+    background-image:url("ram4.png") ;
+    border-image-width: cover ;    
+}
+#units{
+width: 100vw;
+height: 100px;
+margin-bottom: 20px;
+margin-left: 30px;
+
+}
+#sun{
+width: 100vw;
+height: 400px;
+display: flex;
+justify-content: space-evenly;
+margin: 30px;
+}
+#master1{
+width: 400px;
+height: 400px;
+
+
+
+}
+#rolex1{
+width: 300px;
+height: 300px;
+background-image: url("rolex1.png");
+background size: cover;
+border: 2px solid black;
+    
+
+}
+#master2{
+    width: 400px;
+    height: 400px;
+}
+#rolex2{
+    width: 300px;
+    height: 300px;
+    background-image: url("rolex2.png");
+    border: 2px solid black;
+    
+    
+    
+    }
+#master3{
+    width: 400px;
+    height: 400px;
+} 
+#rolex3{
+    width: 300px;
+    height: 300px;
+    background-image: url("rolex4.png");
+    background-size: cover;
+    border: 2px solid black;
+    
+     }
+     button{
+        border-radius: 20%;
+     }
